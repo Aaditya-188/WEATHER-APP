@@ -60,11 +60,3 @@ module.exports = {
 };
 ```
 
-
-### MADE BY
-- Ambar 
-- Ankush 
-- Siddhi
-- Ruthvik
-- Alakshendra 
-- Rohit
